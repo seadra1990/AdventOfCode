@@ -1,0 +1,39 @@
+Line Drawable:  0 9 5 9
+Overlap:  0 9 1
+Overlap:  1 9 1
+Overlap:  2 9 1
+Overlap:  3 9 1
+Overlap:  4 9 1
+Overlap:  5 9 1
+Line Drawable:  9 4 3 4
+Overlap:  9 4 1
+Overlap:  8 4 1
+Overlap:  7 4 1
+Overlap:  6 4 1
+Overlap:  5 4 1
+Overlap:  4 4 1
+Overlap:  3 4 1
+Line Drawable:  2 2 2 1
+Overlap:  2 2 1
+Overlap:  2 1 1
+Line Drawable:  7 0 7 4
+Overlap:  7 0 1
+Overlap:  7 1 1
+Overlap:  7 2 1
+Overlap:  7 3 1
+Overlap:  7 4 2
+Line Drawable:  0 9 2 9
+Overlap:  0 9 2
+Overlap:  1 9 2
+Overlap:  2 9 2
+Line Drawable:  3 4 1 4
+Overlap:  3 4 2
+Overlap:  2 4 1
+Overlap:  1 4 1
+21
+found point # 1 : 0 9
+found point # 2 : 1 9
+found point # 3 : 2 9
+found point # 4 : 7 4
+found point # 5 : 3 4
+5

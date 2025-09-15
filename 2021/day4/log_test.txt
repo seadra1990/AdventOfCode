@@ -1,0 +1,107 @@
+[22, 13, 17, 11, 0, 8, 2, 23, 4, 24, 21, 9, 14, 16, 7, 6, 10, 3, 18, 5, 1, 12, 20, 15, 19, 3, 15, 0, 2, 22, 9, 18, 13, 17, 5, 19, 8, 7, 25, 23, 20, 11, 10, 24, 4, 14, 21, 16, 12, 6, 14, 21, 17, 24, 4, 10, 16, 15, 9, 19, 18, 8, 23, 26, 20, 22, 11, 13, 6, 5, 2, 0, 12, 3, 7]
+75
+[22, 13, 17, 11, 0, 8, 2, 23, 4, 24, 21, 9, 14, 16, 7, 6, 10, 3, 18, 5, 1, 12, 20, 15, 19]
+length inputdata: 25
+[[<__main__.BingoBoardCell object at 0x000001CB3BB40208>, <__main__.BingoBoardCell object at 0x000001CB3BB40288>, <__main__.BingoBoardCell object at 0x000001CB3BB402C8>, <__main__.BingoBoardCell object at 0x000001CB3BB40308>, <__main__.BingoBoardCell object at 0x000001CB3BB40348>], [<__main__.BingoBoardCell object at 0x000001CB3BB403C8>, <__main__.BingoBoardCell object at 0x000001CB3BB40408>, <__main__.BingoBoardCell object at 0x000001CB3BB40448>, <__main__.BingoBoardCell object at 0x000001CB3BB40488>, <__main__.BingoBoardCell object at 0x000001CB3BB404C8>], [<__main__.BingoBoardCell object at 0x000001CB3BB40548>, <__main__.BingoBoardCell object at 0x000001CB3BB40588>, <__main__.BingoBoardCell object at 0x000001CB3BB405C8>, <__main__.BingoBoardCell object at 0x000001CB3BB40608>, <__main__.BingoBoardCell object at 0x000001CB3BB40648>], [<__main__.BingoBoardCell object at 0x000001CB3BB406C8>, <__main__.BingoBoardCell object at 0x000001CB3BB40708>, <__main__.BingoBoardCell object at 0x000001CB3BB40748>, <__main__.BingoBoardCell object at 0x000001CB3BB40788>, <__main__.BingoBoardCell object at 0x000001CB3BB407C8>], [<__main__.BingoBoardCell object at 0x000001CB3BB40848>, <__main__.BingoBoardCell object at 0x000001CB3BB40888>, <__main__.BingoBoardCell object at 0x000001CB3BB408C8>, <__main__.BingoBoardCell object at 0x000001CB3BB40908>, <__main__.BingoBoardCell object at 0x000001CB3BB40948>]]
+[3, 15, 0, 2, 22, 9, 18, 13, 17, 5, 19, 8, 7, 25, 23, 20, 11, 10, 24, 4, 14, 21, 16, 12, 6]
+length inputdata: 25
+[[<__main__.BingoBoardCell object at 0x000001CB3BB40A48>, <__main__.BingoBoardCell object at 0x000001CB3BB40AC8>, <__main__.BingoBoardCell object at 0x000001CB3BB40B08>, <__main__.BingoBoardCell object at 0x000001CB3BB40B48>, <__main__.BingoBoardCell object at 0x000001CB3BB40B88>], [<__main__.BingoBoardCell object at 0x000001CB3BB40C08>, <__main__.BingoBoardCell object at 0x000001CB3BB40C48>, <__main__.BingoBoardCell object at 0x000001CB3BB40C88>, <__main__.BingoBoardCell object at 0x000001CB3BB40CC8>, <__main__.BingoBoardCell object at 0x000001CB3BB40D08>], [<__main__.BingoBoardCell object at 0x000001CB3BB40D88>, <__main__.BingoBoardCell object at 0x000001CB3BB40DC8>, <__main__.BingoBoardCell object at 0x000001CB3BB40E08>, <__main__.BingoBoardCell object at 0x000001CB3BB40E48>, <__main__.BingoBoardCell object at 0x000001CB3BB40E88>], [<__main__.BingoBoardCell object at 0x000001CB3BB40F08>, <__main__.BingoBoardCell object at 0x000001CB3BB40F48>, <__main__.BingoBoardCell object at 0x000001CB3BB40F88>, <__main__.BingoBoardCell object at 0x000001CB3BB40FC8>, <__main__.BingoBoardCell object at 0x000001CB3BB34048>], [<__main__.BingoBoardCell object at 0x000001CB3BB340C8>, <__main__.BingoBoardCell object at 0x000001CB3BB34108>, <__main__.BingoBoardCell object at 0x000001CB3BB34148>, <__main__.BingoBoardCell object at 0x000001CB3BB34188>, <__main__.BingoBoardCell object at 0x000001CB3BB341C8>]]
+[14, 21, 17, 24, 4, 10, 16, 15, 9, 19, 18, 8, 23, 26, 20, 22, 11, 13, 6, 5, 2, 0, 12, 3, 7]
+length inputdata: 25
+[[<__main__.BingoBoardCell object at 0x000001CB3BB342C8>, <__main__.BingoBoardCell object at 0x000001CB3BB34348>, <__main__.BingoBoardCell object at 0x000001CB3BB34388>, <__main__.BingoBoardCell object at 0x000001CB3BB343C8>, <__main__.BingoBoardCell object at 0x000001CB3BB34408>], [<__main__.BingoBoardCell object at 0x000001CB3BB34488>, <__main__.BingoBoardCell object at 0x000001CB3BB344C8>, <__main__.BingoBoardCell object at 0x000001CB3BB34508>, <__main__.BingoBoardCell object at 0x000001CB3BB34548>, <__main__.BingoBoardCell object at 0x000001CB3BB34588>], [<__main__.BingoBoardCell object at 0x000001CB3BB34608>, <__main__.BingoBoardCell object at 0x000001CB3BB34648>, <__main__.BingoBoardCell object at 0x000001CB3BB34688>, <__main__.BingoBoardCell object at 0x000001CB3BB346C8>, <__main__.BingoBoardCell object at 0x000001CB3BB34708>], [<__main__.BingoBoardCell object at 0x000001CB3BB34788>, <__main__.BingoBoardCell object at 0x000001CB3BB347C8>, <__main__.BingoBoardCell object at 0x000001CB3BB34808>, <__main__.BingoBoardCell object at 0x000001CB3BB34848>, <__main__.BingoBoardCell object at 0x000001CB3BB34888>], [<__main__.BingoBoardCell object at 0x000001CB3BB34908>, <__main__.BingoBoardCell object at 0x000001CB3BB34948>, <__main__.BingoBoardCell object at 0x000001CB3BB34988>, <__main__.BingoBoardCell object at 0x000001CB3BB349C8>, <__main__.BingoBoardCell object at 0x000001CB3BB34A08>]]
+number_of_board 3
+current number: 7
+current number: 4
+current number: 9
+current number: 5
+current number: 11
+current number: 17
+current number: 23
+current number: 2
+current number: 0
+current number: 14
+current number: 21
+current number: 24
+Bingo in row : 0
+found_Bingo
+	|14|True	|21|True	|17|True	|24|True	|4|True
+	|10|False	|16|False	|15|False	|9|True	|19|False
+	|18|False	|8|False	|23|True	|26|False	|20|False
+	|22|False	|11|True	|13|False	|6|False	|5|True
+	|2|True	|0|True	|12|False	|3|False	|7|True
+numberOfBingoboard: 1
+current number: 10
+Bingo in row : 0
+current number: 16
+Bingo in row : 2
+found_Bingo
+	|22|False	|13|False	|17|True	|11|True	|0|True
+	|8|False	|2|True	|23|True	|4|True	|24|True
+	|21|True	|9|True	|14|True	|16|True	|7|True
+	|6|False	|10|True	|3|False	|18|False	|5|True
+	|1|False	|12|False	|20|False	|15|False	|19|False
+numberOfBingoboard: 2
+Bingo in row : 0
+current number: 13
+Bingo in row : 2
+Bingo in column : 4
+found_Bingo
+	|3|False	|15|False	|0|True	|2|True	|22|False
+	|9|True	|18|False	|13|True	|17|True	|5|True
+	|19|False	|8|False	|7|True	|25|False	|23|True
+	|20|False	|11|True	|10|True	|24|True	|4|True
+	|14|True	|21|True	|16|True	|12|False	|6|False
+numberOfBingoboard: 3
+found last Bingo
+13
+148
+part 2 result:  1924
+Bingo in row : 0
+current number: 6
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 15
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 25
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 12
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 22
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 18
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 20
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 8
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 19
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 3
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 26
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0
+current number: 1
+Bingo in row : 2
+Bingo in column : 4
+Bingo in row : 0

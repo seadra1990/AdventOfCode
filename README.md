@@ -1,2 +1,2 @@
 # AdventOfCode
-for fun script for https://adventofcode.com/
+Python forfun script to solve puzzles in https://adventofcode.com/

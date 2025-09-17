@@ -1,0 +1,23 @@
+#length 2
+SEGMENT_1 = "cf"
+
+#length 3
+SEGMENT_7 = "acf"
+
+#length 4
+SEGMENT_4 = "bcdf"
+
+#SEGMENT_COMBINE = "abcdf"
+
+#length 5
+SEGMENT_2 = "acdeg" #get by 1,4,7 (has e/g)(3)
+SEGMENT_3 = "acdfg" #get by 7 (2)
+SEGMENT_5 = "abdfg" #get by 1,4,7 (has g)(3)
+
+#length 6
+SEGMENT_0 = "abcefg" #get and 7 (2)
+SEGMENT_6 = "abdefg" #get by 1,4,7 (has e/g)(3)
+SEGMENT_9 = "abcdfg" #get by 1 (1)
+
+#length 7
+SEGMENT_8 = "abcdefg"
